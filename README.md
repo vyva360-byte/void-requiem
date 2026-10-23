@@ -58,8 +58,6 @@ Enemy HP, damage, speed, spawn rate, XP, and the concurrent-enemy cap all scale 
 
 | | |
 |---|---|
-| **Designed by** | Victor Mendez (the prompt) |
-| **Written by** | DeepSeek v4.1, in a single pass |
+| **Designed by** | vyva-byte |
+| **Written by** | vyva-byte |
 | **Verified by** | Independent static audit of the delivered file (structure, spec constants, syntax) |
-
-*Part of an ongoing series of AI limits tests. The next prompt triples the challenge.*
